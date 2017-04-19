@@ -1,4 +1,4 @@
-Pick Peak
+Kata Name: Pick Peak
 Kata Sensai: frenetic_be
 Description:
 "In this kata, you will write a func that returns the positions and the values of the "peaks" (or local maxima) of a numeric array.
